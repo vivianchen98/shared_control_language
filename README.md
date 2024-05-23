@@ -10,9 +10,9 @@
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; margin: 0 10px; margin-bottom: 20px;">
-  <img src="images/gnomes_at_night.jpg" alt="sharedcontrol1" width="400" style="margin: 0 10px;"/>
-  <img src="images/cooperative_control_game.jpg" alt="sharedcontrol1" width="400" style="margin: 0 10px;"/>
-  <img src="images/approach_overview.jpg" alt="sharedcontrol1" width="400" style="margin: 0 10px;"/>
+  <img src="images/gnomes_at_night.jpg" alt="sharedcontrol1" width="350" style="margin: 0 50px;"/>
+  <img src="images/cooperative_control_game.jpg" alt="sharedcontrol1" width="350" style="margin: 0 20px;"/>
+  <!-- <img src="images/approach_overview.jpg" alt="sharedcontrol1" width="400" style="margin: 0 10px;"/> -->
 </div>
 
 If you use this work, please cite:
