@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shared_control_language"
+version = "0.0.1"
+
+description = "Agent in shared-control game Gnomes at Night with natural language"
+readme = "README.md"
+requires-python = ">=3.9"
+
+license = {file = "LICENSE.txt"}
+
+keywords = ["Artificial Intelligence", "Human-AI Interaction", "Natural Language"]
+
+authors = [
+  {name = "Example", email = "example@example.com"}
+]
+
+maintainers = [
+  {name = "Example", email = "example@example.com"}
+]
+
+dependencies = [
+  "numpy",
+  "gymnasium",
+  "pygame",
+  "openai",
+  "python-dotenv",
+]
+
+# [project.optional-dependencies]
+# dev = ["check-manifest"]
+# test = ["coverage"]
+
+# [project.urls]
+# "Homepage" = "https://github.com/pypa/sampleproject"
+
+# [project.scripts]
+# example = "examples/sample:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
