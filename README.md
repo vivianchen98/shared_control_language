@@ -3,8 +3,8 @@
 - International Joint Conference on Artificial Intelligence (IJCAI), Human-Centred Artificial Intelligence track, 2024 
 
 <div align="center" style="font-size: 24px; font-weight: bold;">
-  <a href="link-to-ijcai-paper">🔗 Paper</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="link-to-paper-main-appendix">📑 Paper (main+appendix) on Arxiv</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<!--   <a href="link-to-ijcai-paper">🔗 Paper</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
+  <a href="https://arxiv.org/abs/2405.14173">📑 Paper (main+appendix) on Arxiv</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://shenghui-chen.com/publication/2024/03/22/shared_control_game/">📝 Blog</a>
 </div>
 
