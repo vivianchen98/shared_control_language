@@ -4,9 +4,20 @@
 
 <div align="center" style="font-size: 24px; font-weight: bold;">
 <!--   <a href="link-to-ijcai-paper">🔗 Paper</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
-  <a href="https://arxiv.org/abs/2405.14173">📑 Paper (main+appendix) on Arxiv</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://shenghui-chen.com/publication/2024/03/22/shared_control_game/">📝 Blog</a>
+  <a href="https://arxiv.org/abs/2405.14173">📑 Paper (main+appendix) on Arxiv</a> 
+  <!--   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://shenghui-chen.com/publication/2024/03/22/shared_control_game/">📝 Blog</a> -->
 </div>
+
+If you use this work, please cite:
+
+```bibtex
+@inproceedings{chen2024sharedcontrol,
+  author={Chen, Shenghui and Fried, Daniel and Topcu, Ufuk},
+  booktitle={International Joint Conference on Artificial Intelligence (IJCAI), Human-Centred Artificial Intelligence track}, 
+  title={Human-Agent Cooperation in Games under Incomplete Information through Natural Language Communication}, 
+  year={2024},
+}
+```
 
 ## 📋 Abstract
 🌟 Developing autonomous agents to strategize and cooperate with humans using natural language is challenging. Our testbed, Gnomes at Night 🎮, is a maze game where two players alternately control a token to achieve a common goal with incomplete information.
@@ -20,21 +31,6 @@ We formulate a policy synthesis problem for an autonomous agent in this game wit
   <img src="images/gnomes_at_night.jpg" alt="Gnomes at Night" width="350" padding-right: 100px/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/cooperative_control_game.jpg" alt="Cooperative Control Game" width="350"/>
 </div>
-
-## 📚 Citation
-If you use this work, please cite:
-
-```bibtex
-@inproceedings{chen2024sharedcontrol,
-  author={Chen, Shenghui and Fried, Daniel and Topcu, Ufuk},
-  booktitle={International Joint Conference on Artificial Intelligence (IJCAI), Human-Centred Artificial Intelligence track}, 
-  title={Human-Agent Cooperation in Games under Incomplete Information through Natural Language Communication}, 
-  year={2024},
-}
-```
-
-
-
 
 ## 📦 Installation
 It is recommended to create a Python virtual environment first:
