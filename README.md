@@ -11,11 +11,14 @@
 If you use this work, please cite:
 
 ```bibtex
-@inproceedings{chen2024sharedcontrol,
-  author={Chen, Shenghui and Fried, Daniel and Topcu, Ufuk},
-  booktitle={International Joint Conference on Artificial Intelligence (IJCAI), Human-Centred Artificial Intelligence track}, 
-  title={Human-Agent Cooperation in Games under Incomplete Information through Natural Language Communication}, 
-  year={2024},
+@inproceedings{chen2024human,
+    title     = {Human-Agent Cooperation in Games under Incomplete Information through Natural Language Communication},
+    author    = {Chen, Shenghui and Fried, Daniel and Topcu, Ufuk},
+    booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+               Artificial Intelligence ({IJCAI-24}), Human-Centred AI},
+    pages     = {7833--7841},
+    year      = {2024},
+    doi       = {10.24963/ijcai.2024/867}
 }
 ```
 
